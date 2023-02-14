@@ -7,7 +7,7 @@ Desenvolvido no curso multi-stack da treinaweb
 #### Clonar o repositório
 
 ```
-git clone https://github.com/treinaweb/multistack-sistema-administrativo-ediaristas-php.git
+git clone https://github.com/jonasmartinsdev/e-diaristas-api.git
 ```
 
 #### Instalar as depencências
