@@ -10,7 +10,7 @@ Desenvolvido no curso multi-stack da treinaweb
 git clone https://github.com/jonasmartinsdev/e-diaristas-api.git
 ```
 
-#### Instalar as depencências
+#### Instalar as dependências
 
 ```
 composer install
